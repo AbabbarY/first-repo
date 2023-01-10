@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.Winn{
+  display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+  background: #eee;
+}
+
+.compo{
+  padding: 10px;
+  background: rgb(173, 156, 156);
+}
